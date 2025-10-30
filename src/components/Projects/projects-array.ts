@@ -1,7 +1,7 @@
-import docbok from "../../../public/docbook.png"
-import apexsport from "../../../public/apexSport.png"
-import seven from "../../../public/seven.png"
-import infoTech from "../../../public/infoTech.png"
+import docbok from "../../../public/docbook.webp"
+import apexsport from "../../../public/apexSport.webp"
+import seven from "../../../public/seven.webp"
+import infoTech from "../../../public/infoTech.webp"
 
 export type ProjectType={
 

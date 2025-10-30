@@ -13,7 +13,7 @@ const Contact = () => {
                     <input type="text" name="_honey" className="hidden" />
                     <textarea name="_subject" required placeholder="Message..." className="py-1 pl-2 bg-slate-800  outline-none  rounded-lg border-2 h-60 border-blue-500 focus:border-slate-200 duration-300  w-full"></textarea>
                     <div className="flex justify-center items-center">
-                        <button type="submit" className="submitButton rounded-full border-2 duration-300 cursor-pointer text-blue-500 hover:bg-blue-500 hover:text-slate-200 border-blue-500 py-1 px-6 font-normal">Submit</button>
+                        <button type="submit" name="send a message" className="submitButton rounded-full border-2 duration-300 cursor-pointer text-blue-500 hover:bg-blue-500 hover:text-slate-200 border-blue-500 py-1 px-6 font-normal">Submit</button>
                     </div>
                 </form>
             </div>
